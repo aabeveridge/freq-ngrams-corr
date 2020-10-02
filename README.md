@@ -1,7 +1,7 @@
 # Word Frequencies, N-Grams, and Word Correlations using Tidytext
 
 ## Part 1
-This week's tutorial has 2 parts. For the first part, you will extend your web scraping to collect data from an entire website. Please reference the `rvest_example2.R` file for one such approach. Depending on the site you've chosen, you may need to use other strategies--like using RSelenium to scrape a full site. See the following tutorials for additional strategies:
+This week's tutorial has 2 parts. For the first part, you will extend your web scraping to collect data from an entire website. Please reference the `rvest_example2.R` file for the approach that was demonstrated in class. Depending on the site you've chosen, you may need to use other strategies--like using RSelenium to scrape a full site. See the following tutorials for additional strategies with RSelenium:
 - <http://thatdatatho.com/2019/01/22/tutorial-web-scraping-rselenium/>
 - <http://joshuamccrain.com/tutorials/web_scraping_R_selenium.html>  
 
